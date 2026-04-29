@@ -8,7 +8,6 @@ Who needs a PlayStation controller when you have a webcam? 🎮
 
 This project is a completely touchless, Computer Vision-powered controller that allows two players to battle it out in **Tekken 3** using physical gestures. It was built as **Project 04/12** of my *"Jab Jago Tab savera"* monthly AI/ML series, focusing on real-time tracking, pose estimation, and pure retro nostalgia.
 
-*(👉 `![Demo](demo.gif)`)*
 
 ---
 
